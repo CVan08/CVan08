@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CVan08
-- 👀 I’m interested in learning C++
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in learning Python
+- 🌱 I’m currently learning Python
 - 📫 You can reach me on Discord @ButterFingers#6678
 
 <!---
